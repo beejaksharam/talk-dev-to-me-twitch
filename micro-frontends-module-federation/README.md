@@ -21,3 +21,5 @@ In this example we are going to create:
 - a my account micro-frontend that is loading 2 micro-frontends: account details and payments details
 
 ![Module Federation](modFedDiagram.png)
+
+### Changes made by me.
